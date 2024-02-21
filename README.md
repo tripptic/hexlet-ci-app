@@ -1,3 +1,4 @@
+![run workflow](https://github.com/tripptic/hexlet-my-first-workflow/actions/workflows/hello-world.yml/badge.svg)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
